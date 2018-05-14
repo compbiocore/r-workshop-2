@@ -1,0 +1,15 @@
+
+.. Brown CBC's 'Intermediate R' Workshop Materials index file, created by `ablog start` on Mon May 14 12:32:54 2018.
+   You can adapt this file completely to your liking, but it should at least
+   contain the root `toctree` directive.
+
+Brown CBC’s R Workshop 2 Materials
+===================================
+
+.. toctree::
+   :maxdepth: 2
+   :caption: Contents:
+
+   CBC Workshop index <https://compbiocore.github.io/cbc-workshops/>
+
+   Placeholder for pdf link <https://www.google.com>
